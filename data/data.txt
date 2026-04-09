@@ -1,0 +1,149 @@
+College Overview  
+CVR College of Engineering (CVRCE) is a private autonomous engineering college near Ibrahimpatnam, Hyderabad, affiliated to JNTU Hyderabad. It is known for strong placements and is managed by the Cherabuddi Education Society. The Society seeks to harness the technical expertise and financial support of NRIs to make CVR College of Engineering a pre-eminent technical institution.  
+Dr. Raghava V. Cherabuddi is an NRI member of the Cherabuddi Education Society. He holds a B.E. in Computer Science, an M.S. in Computer Science, an M.S. in Computer Engineering, and a Ph.D. in Computer Engineering from the USA. He previously worked with Microsoft Corporation as an Academic Alliance Manager and with Intel Corporation in the USA for about twelve years. He has published over ten research papers in international conferences and returned to India after living in the USA for sixteen years.  
+The principal of CVR College is Dr. K. Ramamohan Reddy, Professor of Civil Engineering and Principal. The director of CVR College is Prof. K. Rama Sastri, B.E., M.E., Ph.D. (IIT Madras), 1976.  
+The official website of CVR College is cvr.ac.in.  
+For general enquiries, contact principal@cvr.ac.in. For admissions-related enquiries, contact snreddy@cvr.ac.in. For placements-related enquiries, contact placement@cvr.ac.in or 099598 34090.  
+The campus address is Vastunagar, Mangalpalli (V), Ibrahimpatnam (M), Rangareddy (D), Telangana 501510.  
+The EAMCET code is CVRH.  
+CVR College support bot is a virtual helper designed to support students with information on facilities, academic programs, placements, attendance rules, and general campus information.
+
+Academic Regulations  
+A minimum of 75% attendance is required to appear for end-semester examinations. Attendance can be condoned down to 65% on genuine grounds with a fee, and below 65% leads to detention and re-registration of that semester when offered. Medical leave can be applied for by submitting valid documents to the academic office.  
+B.Tech is a 4-year (8-semester) program, and each semester is 22 weeks with at least 90 instructional days. Admission is through TS EAMCET or other university/government-approved merit criteria.  
+Each course carries 100 marks: 40 internal (CIE) and 60 external (SEE). A 10-point absolute grading scale is used: S, A+, A, B+, B, C, P, F, and Ab. SGPA and CGPA are computed over registered credits, and a minimum CGPA of 5.0 is required to be considered passed in the semester/program.  
+A student is promoted to the next academic year only if the minimum prescribed credits are secured in preceding semesters as per promotion rules. Supplementary examinations are conducted for failed theory and laboratory courses, and the better of the two performances is retained wherever applicable.  
+Malpractice in examinations results in cancellation of performance in that course and may attract additional disciplinary action as per regulations. Students may apply for revaluation or recounting within the notified time by paying the prescribed fee.  
+Industry-oriented mini projects must be completed as per the academic calendar and carry credits defined in the curriculum. Final-year project work is evaluated through continuous assessment and a final viva-voce by internal and external examiners.  
+A break in study is permitted only with prior approval of the college academic council, and rejoining is under regulations in force at the time of readmission. To be eligible for the B.Tech degree, a student must earn all prescribed credits, clear all courses, and satisfy minimum CGPA requirements as per regulations.  
+A student must register for all courses offered in a semester, and withdrawal is permitted only within notified timelines with academic council approval. Makeup tests are provided only for genuine medical or emergency reasons with supporting documents approved by the department.  
+For theory courses, a student is declared passed only by securing minimum required marks separately in internal assessment and semester-end examinations. Backlog courses must be cleared through supplementary examinations, and credits are awarded only after passing all course components. Improvement of internal assessment marks may be permitted in the subsequent offering of the course as per academic guidelines.  
+Students must strictly follow examination rules, and possession of unauthorized material or unfair means leads to exam cancellation and further disciplinary action. SGPA is computed at the end of each semester, and CGPA is computed cumulatively over all completed semesters. A student completes the program only after successfully clearing all registered courses, laboratories, and project components.  
+Break of study due to medical or personal reasons must be formally requested and approved, and readmitted students follow regulations in force at that time. Students must maintain academic integrity in assignments, laboratory records, project reports, and publications.  
+For laboratory courses, attendance, continuous evaluation, and final practical examination performance together determine the final grade. If a student is detained for attendance shortage, all internal marks of that semester are cancelled and the semester must be repeated.  
+Students must follow the academic calendar for registrations, fee payments, internal assessments, and exam form submissions.  
+For students promoted to B.Tech IV Year in 2025-26 under Convener/Management Quota, the total tuition fee is Rs. 1,56,385 for CIVIL, EEE, and MECH, and Rs. 1,53,385 for CSE (CS), CSE (AI & ML), and CSE (DS). For scholarship holders with partial fee reimbursement (BC/EBC and others) in CSE (CS), CSE (AI & ML), and CSE (DS), the total tuition fee for B.Tech IV Year is Rs. 1,18,385.00.
+
+Academic Programs and Intake  
+For the academic year 2025-26, B.Tech intake is as follows: Civil Engineering (60), Computer Science and Business Systems (60), Computer Science and Engineering (660), CSE - Artificial Intelligence and Machine Learning (240), CSE - Data Science (240), CSE - Cyber Security (180), Electronics and Communication Engineering (120), Electronics Engineering - VLSI Design and Technology (60), Electrical and Electronics Engineering (60), Electronics and Instrumentation Engineering (60), Information Technology (120), and Mechanical Engineering (60).  
+The CSE program includes subjects such as Data Structures, Operating Systems, DBMS, and Machine Learning. Elective courses are offered from the third year onward based on department guidelines.  
+CVRCE offers B.Tech courses in Civil, CSBS, CSE, CSE (Artificial Intelligence and Machine Learning), CSE (Cyber Security), CSE (Data Science), ECE, EEE, EE (VLSI), EIE, IT, and Mechanical Engineering.  
+All B.Tech students are provided options to take a minor in Artificial Intelligence and Machine Learning, Cyber Security, Data Science, and Internet of Things from the third year.  
+M.Tech programs offered include Artificial Intelligence (18), Data Sciences (18), Electrical Power Engineering (18), Embedded Systems (18), Structural Engineering (18), and VLSI Design (18).
+
+Examination Branch  
+The Examination Branch is well established and equipped with modern equipment for conducting examinations and publishing results. It is supported by adequate experienced teaching and non-teaching staff. The functioning of the branch, including spot valuation, is continuously monitored using state-of-the-art equipment.  
+Examination data storage and backup systems are protected using encryption techniques. Certificates and official documents issued by the Examination Branch contain multiple security features. The Examination Branch is continuously upgraded with the latest technologies to improve examination processes.  
+Dr. S. Venkateshwarlu, Professor in the Electrical and Electronics Engineering department, serves as the Controller of Examinations.  
+Students can contact the Examination Branch at coe@cvr.ac.in for examination-related queries. Hall tickets must be downloaded from the college portal before examinations.  
+Exam results are available at https://results.cvr.ac.in/cvrresults1/resulthome.php.
+
+Faculty Information  
+Faculty office hours are generally from 9:00 AM to 4:00 PM on working days.  
+Dr. S. V. Suryanarayana, M.Tech., Ph.D., is the Head of the Department (HOD) of Computer Science and Engineering (Data Science).
+
+The following faculty members serve as Professors in the CSE (Data Science) Department:
+Dr. S. V. Suryanarayana, M.Tech., Ph.D.
+Dr. N. Satyanarayana, M.Tech., Ph.D.
+
+The Associate Professors in the CSE (Data Science) Department are:
+Dr. Varaprasad Rao M, M.Tech., Ph.D.
+Dr. Rama Krishna B, M.Tech., Ph.D.
+Dr. LNC Prakash K, M.Tech., Ph.D.
+Dr. A. Srinivasa Reddy, M.Tech., Ph.D.
+Dr. Shaik Janbhasha, M.Tech., Ph.D.
+Dr. Basavaraj Chunchure, M.Tech., Ph.D.
+Dr. M. Sreenu, M.Tech., Ph.D.
+Dr. Sri Laxmi Kuna, M.Tech., Ph.D.
+
+The Senior Assistant Professors in the department are:
+Mrs. A. Srichandana, M.Tech., (Ph.D.)
+Mrs. S. Vineela Krishna, M.Tech., (Ph.D.)
+Mr. Ahmed Shahebaaz, M.Tech., (Ph.D.)
+Dr. Annapurna Gummadi, M.Tech., Ph.D.
+Dr. Yasmeen, M.Tech., Ph.D.
+Mrs. E. Nitya, M.Tech., (Ph.D.)
+Mrs. P. Padma, M.Tech., (Ph.D.)
+Mr. P. Hari Shankar, M.Tech., (Ph.D.)
+Mr. K. Harish Kumar, M.Tech., (Ph.D.)
+Mr. K. S. Ranadheer Kumar, M.Tech., (Ph.D.)
+
+The Assistant Professors in the CSE (Data Science) Department are:
+Mrs. S. Lalitha, M.Tech.
+Mrs. P. Nagarani, M.Tech.
+Mr. S. Balakrishna Reddy, M.Tech., (Ph.D.)
+Mrs. M. Nikita, M.Tech., (Ph.D.)
+Mr. Prashanth Donda, M.Tech.
+Mr. V. Ramesh, M.Tech., (Ph.D.)
+Mrs. Arava Nagasri, M.Tech., (Ph.D.)
+Mrs. M. Srivani, M.Tech.
+Mrs. T. Ramya, M.Tech., (Ph.D.)
+Mr. V. Praveen Kumar, M.Tech., (Ph.D.)
+Mrs. B. Sabitha, M.Tech.
+Mr. Moghal Yaseen Pasha, M.Tech.
+Dr. Afreen Fatima Mohammed, M.Tech., Ph.D.
+Mr. Erugu Krishna, M.Tech., (Ph.D.)
+Mrs. V. Swathi, M.Tech., (Ph.D.)
+Mr. K. Ravikiran Reddy, M.Tech., (Ph.D.)
+Mr. N. Suman, M.Tech.
+Mr. T. Phaniraj Kumar, M.Tech.
+Ms. M. Prasanna Lakshmi, M.Tech.
+Mr. G. Vijay Kumar, M.Tech.
+
+Hostel Facilities  
+The college provides on-campus hostel accommodation as a major student support service. Hostel facilities were established in the academic year 2009-10 to support a residential campus environment. The college believes that a residential campus offers a superior environment for academic learning.  
+Hostels are designed to provide a comfortable and supportive living environment. Students residing in hostels have access to a wide range of activities, facilities, and support services.  
+The college has two boys’ hostels and two girls’ hostels on campus. The combined accommodation capacity is 1,250 students for the academic year 2025-26.  
+The annual hostel fee for boys and girls is Rs. 1,60,000 for air-conditioned rooms and Rs. 1,35,000 for non-air-conditioned rooms in 2025-26. A refundable caution deposit of Rs. 10,000 is collected at hostel admission.
+
+Infrastructure and Campus Facilities  
+The college has a built-up area of over 36,000 sqm on a 33-acre campus with verdant surroundings.  
+There are 119 laboratories across departments, including computer, electronics, mechanical, and other departmental labs. The college has exactly 31 computer laboratories dedicated to computing and IT-related activities.  
+Computer labs are equipped with Lenovo, Dell, and Apple servers and systems. The campus provides high-speed internet of approximately 2 Gbps with campus-wide Wi-Fi.  
+The quality of computing and network infrastructure enables the college to regularly host online recruitment examinations for various companies. The college was the only institution in the Telangana region selected to host the inaugural Smart India Hackathon.  
+All faculty members are provided personal computers or laptops with high-speed internet access. Professors are provided high-end laptops, laser printers, and scanners for academic use. Students are provided appropriate internet access for learning and academic activities.  
+Computing equipment is regularly upgraded, and previously used equipment is donated to local schools.  
+The Student Centre is an independent four-story building housing facilities such as a canteen, gym, indoor sports facilities, and placement office.  
+The college health centre provides essential medical services for students and staff. It has a dedicated doctor and a small team of nurses. Basic inpatient facilities with a few beds are available for short-term care. The health centre is equipped with an ambulance, and patients can be transported to nearby hospitals when required.  
+Campus tour: https://cvr.ac.in/home4/index.php/campus/campus-tour.
+
+Library and Learning Resources  
+The college has a dedicated three-storied building with a total area of 1460 sqm for exclusive use of library and postgraduate research facilities.  
+The library has 87,582 books, 17,046 reference titles, and 191 journals serving all eight branches of engineering and other disciplines.  
+A digital library with 30 multimedia PCs provides full access to IEEE, ASME, ASCE, DELNET, IESTC, KNIMBUS (with remote access), NDLI, and NPTEL.  
+Major newspapers, news magazines, and books of general interest, including non-fiction, biographies, and rare books, are also available.  
+College bus facility is available up to 6:00 PM on all working days to help students spend time in the library.  
+The Professor In-charge of the Library is Dr. Lalithendra Kurra.  
+The library subscribes to 193 print journals and magazines. It provides access to 206 IEEE e-journals and e-books, 34 ASME e-journals, 38 ASCE e-journals, 858 DELNET e-journals, 10,014 KNIMBUS e-journals, 1,825 IESTC e-journals, 2,128 DELNET e-books, and 16,704 KNIMBUS e-books.
+
+Student Services and Placements  
+The college has a Centre for Student Services and Placement that provides personal and career counseling. The centre helps students cope effectively with college life and future career challenges. A major objective is assisting students in obtaining internships and placements in reputed companies across industrial sectors. The centre also supports students seeking higher education opportunities.  
+Several personality development programs have been conducted by industry experts to improve students’ professional skills. CVR students have achieved the highest number of recruitments among institutions of similar age. For nine consecutive years, CVR students secured the highest placements through pool and on-campus drives.  
+Ms. Vijaya Mair serves as Associate Dean for Campus and Corporate Relations and handles placement-related assistance.  
+Placement contact details are +91 9849877494, landline 08414 661 663, placement@cvr.ac.in, and placement.cvr@gmail.com.  
+In 2024-25, the college recorded its highest placement performance among peer institutions. Despite continued economic recession, around 90 companies visited campus for recruitment. Approximately 1,000 placement offers were made. The average salary rose to a new high, and the highest package was Rs. 72,00,000 per annum. More than 150 students received high salary offers, setting a new record. Around 250 offers were above Rs. 6 lakhs per annum. The college emerged as a leading institution in the state for high-salary offers, and its placement percentage was higher than many premier institutions in the state and across the country.  
+The college offers special coaching for GATE, TOEFL, and GRE. The placement cell conducts mock interviews and aptitude training sessions.  
+More placement information is available at https://cvr.ac.in/home4/index.php/placements.
+
+Research and Innovation  
+The college has a well-defined research policy covering research facilities and incentives. It provides strong research infrastructure, including high-configuration computers and equipment for project design and development.  
+Seed money is provided to support research and innovation. The college has established an EDC and NewGen Incubation Center to promote entrepreneurship and innovation.  
+Specialized research centers include a UAV Design Center and centers for Advanced Antenna Design and Nano Technology Materials Research with advanced software and equipment.  
+The college promotes patent filing through financial support and incentives. It provides paid study leave of six months on three occasions during the Ph.D. program. Ph.D. scholars receive a research allowance of Rs. 60,000 and an incentive of Rs. 25,000 at three stages of the Ph.D.  
+Digital library and e-resource access are provided to students and faculty to support research.  
+The CVR Journal of Science and Technology started in 2011. Faculty are encouraged to publish in standard national and international journals. The institution ensures implementation of a research code of ethics.  
+More than 2,000 research papers have been published in SCOPUS and Web of Science indexed journals. Twenty-two professors have been identified as research guides and supervisors.  
+The college regularly organizes workshops and seminars on research methodology, intellectual property rights, entrepreneurship, and skill development.
+
+Sports Facilities  
+CVR College of Engineering offers a wide range of sports facilities. Outdoor facilities include two volleyball courts, one basketball court, one throw ball court, one badminton court, one cricket ground with flood lights, and one football ground.  
+Indoor facilities include table tennis, chess, billiards, gym, and carroms. High-quality sports equipment is provided for all indoor and outdoor games.  
+The college has two full-time sports coaches who guide and train students. Sports facilities are used daily and during competitions organized for events such as College Day.  
+College bus facilities are available up to 6:30 PM on all working days to support students participating in sports activities.
+
+Data Science Department
+The Department of Computer Science and Engineering (Data Science) was established in 2020 to equip students with cutting-edge knowledge and skills in the rapidly evolving fields of Data Science (DS), Big Data analytics, Advanced Databases and  Cognitive Analytics.
+CSE (Data Science) is an upcoming, exponentially growing field which consists of a set of tools and techniques used to extract useful information from data. There is a rising demand for undergraduates in Data Science in the Global market over the last few years. B.Tech. CSE (Data Science) programme started from the academic year 2020 – 21 with a vision to create globally competent students with expertise in Data analytic skills & emerging areas of data science applications. B.Tech in CSE (Data Science) has been specifically designed to educate undergraduate students for a prospective career in upcoming data science industry. With analysis and statistical approach, data science is one of the fastest growing career opportunities in the country. The program encompass data science as an interdisciplinary, problem-solving-oriented subject that learns to apply scientific techniques to practical problems.
+B.Tech in CSE (DS)  is best suited for students who are seeking to build a career in field of data science. The curriculum include courses on programming, algorithms, data structures, computer networks, database management, and operating systems. In addition, the program educates them on emerging areas of Data Science topics such as Machine Learning, Statistics, Optimization, Big Data Analytics, NoSQL Databases, Real time Analytics and many more. This helps the students to stand apart in the fellow graduates and grow careers in the upcoming technological era.
+Graduates in CSE (DS) have career prospects in a variety of industries such as Retail, Finance, E-commerce, Healthcare, IT services with job roles defined as Data Scientist, Data Analyst, Business Analyst, Data Engineer and many more.  
+The Head of the Department is Dr. S. V. Suryanarayana. This is one of the three departments overseen by the Associate Dean, Emerging Technologies, Dr. H.N. Lakshmi. 
