@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local vector index / cache (rebuildable)
+vectorstore/
+*.faiss
+*.pkl
+
+# Secrets
+*.env
+.env.*
+
+eval_sparse_rag.py
+commands.txt

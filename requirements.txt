@@ -1,0 +1,16 @@
+flask
+flask-cors
+python-dotenv
+
+langchain
+langchain-core
+langchain-groq
+langchain-pinecone
+langchain-huggingface
+sentence-transformers
+pinecone
+langchain-community
+
+# RAGAS for RAG evaluation
+ragas
+datasets
